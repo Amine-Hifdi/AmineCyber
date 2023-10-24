@@ -1,5 +1,5 @@
 # AmineCyber
-<h1>Hi, I'm Amine! <br/><a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Programmer</a>, <a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Cybersecurity Pentester</a></h1>
+<h1>Hi, I'm Amine! <br/><a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Cybersecurity Pentester</a>, <a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
