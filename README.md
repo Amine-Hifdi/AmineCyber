@@ -1,6 +1,7 @@
 
 <h1>Hi, I'm Amine! <br/><a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Cybersecurity Pentester</a>, <a href="https://www.linkedin.com/in/med-amine-hifdi-803584167/">Programmer</a></h1>
 
+student in computer and network engineering,I am constantly on the lookout for the latest trends and new emerging technologies in cybersecurity, my passion for cybersecurity is reflected in my commitment to constantly staying up to date. up-to-date on new threats and industry best practices. I am also certified in various areas of IT security, which demonstrates my desire to continue to develop my skills and continually improve my knowledge.
 ## <b>Languages and Tools</b>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
