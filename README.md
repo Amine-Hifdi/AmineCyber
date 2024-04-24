@@ -21,24 +21,21 @@
 
 <br><br>
 <h2>👨‍💻 Development Projects:</h2>
- <!--
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM) -->
-- <b>C# (.NET Desktop Applications)</b>
 
-  - [E-commerce App Aps.Net](https://github.com/AmineCyberSec/Ecommerce-app-aps.net)
- <!-- - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC) -->
-  
-- <b>Python (web/script)</b>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <b>C# (.NET Desktop Applications)</b>
+
+   - [E-commerce App Aps.Net](https://github.com/AmineCyberSec/Ecommerce-app-aps.net)
+
+<b>Python <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> (Web/Script)</b>
   <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
   
-  - [Python Remote Keylogger](https://github.com/OVK-CyberSec/Python-KeyLogger)
-  - [Django Fitness Shop](https://github.com/AmineCyberSec/Django-Fitness_Store)
+   - [Python Remote Keylogger](https://github.com/OVK-CyberSec/Python-KeyLogger)
+    
+   - [Django Fitness Shop](https://github.com/AmineCyberSec/Django-Fitness_Store)
 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <b>SHELL Scripts</b>
+
+   - [Basic Toolkit](https://github.com/OVK-CyberSec/Litle_Scripts)
 
 <h2> 🤳 Connect with me:</h2>
 
