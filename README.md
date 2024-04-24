@@ -32,7 +32,7 @@ Student in computer and network engineering, I am constantly on the lookout for 
   
    - [Python Remote Keylogger](https://github.com/OVK-CyberSec/Python-KeyLogger)
     
-   - [Django Fitness Shop](https://github.com/AmineCyberSec/Django-Fitness_Store)
+   - [Django Fitness Store](https://github.com/AmineCyberSec/Django-Fitness_Store)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <b>SHELL Scripts</b>
 
