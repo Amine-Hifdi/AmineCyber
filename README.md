@@ -1,5 +1,6 @@
 
-<h1>Hi 👋, I'm Amine!</h1> Student in computer and network engineering, I am constantly on the lookout for the latest trends and new emerging technologies in cybersecurity, my passion for cybersecurity is reflected in my commitment to constantly staying up to date. up-to-date on new threats and industry best practices. I am also certified in various areas of IT security, which demonstrates my desire to continue to develop my skills and continually improve my knowledge.
+<h1>Hi 👋, I'm Amine!</h1>
+Student in computer and network engineering, I am constantly on the lookout for the latest trends and new emerging technologies in cybersecurity, my passion for cybersecurity is reflected in my commitment to constantly staying up to date. up-to-date on new threats and industry best practices. I am also certified in various areas of IT security, which demonstrates my desire to continue to develop my skills and continually improve my knowledge.
 
 ## <b>🧰 Languages and Tools</b>
 
