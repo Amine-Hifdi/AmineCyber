@@ -35,7 +35,7 @@ Student in computer and network engineering, I am constantly on the lookout for 
    - [Django Fitness Store](https://github.com/AmineCyberSec/Django-Fitness_Store)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <b>SHELL Scripts</b>
-   - [AndroidManifest_Verifier]
+   - [AndroidManifest_Verifier](https://github.com/OVK-CyberSec/AndroidManifest_Verifier)
    - [Basic Toolkit](https://github.com/OVK-CyberSec/Litle_Scripts)
      
 
