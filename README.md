@@ -29,13 +29,13 @@ Student in computer and network engineering, I am constantly on the lookout for 
 
 <b>Python <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> (Web/Script)</b>
   <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
+   - [Android_Verifier](https://github.com/OVK-CyberSec/Android_Verifier)
   
    - [Python Remote Keylogger](https://github.com/OVK-CyberSec/Python-KeyLogger)
     
    - [Django Fitness Store](https://github.com/AmineCyberSec/Django-Fitness_Store)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <b>SHELL Scripts</b>
-   - [AndroidManifest_Verifier](https://github.com/OVK-CyberSec/AndroidManifest_Verifier)
    - [Basic Toolkit](https://github.com/OVK-CyberSec/Litle_Scripts)
      
 
