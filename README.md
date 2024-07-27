@@ -29,7 +29,7 @@ Student in computer and network engineering, I am constantly on the lookout for 
 
 <b>Python <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> (Web/Script)</b>
   <!-- - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
-   - [Android_Verifier](https://github.com/OVK-CyberSec/Android_Verifier)
+   - [Android Verifier](https://github.com/OVK-CyberSec/Android_Verifier)
   
    - [Python Remote Keylogger](https://github.com/OVK-CyberSec/Python-KeyLogger)
     
@@ -39,7 +39,7 @@ Student in computer and network engineering, I am constantly on the lookout for 
    - [Network Administration Toolkit](https://github.com/OVK-CyberSec/Litle_Scripts)
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JavaScript Scripts</b>
-   - [Pentest_Toolkit](https://github.com/OVK-CyberSec/Pentest_Toolkit)
+   - [Pentest Toolkit](https://github.com/OVK-CyberSec/Pentest_Toolkit)
      
 
 <h2> 🤳 Connect with me:</h2>
