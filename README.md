@@ -37,6 +37,9 @@ Student in computer and network engineering, I am constantly on the lookout for 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <b>SHELL Scripts</b>
    - [Basic Toolkit](https://github.com/OVK-CyberSec/Litle_Scripts)
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <b>JavaScript Scripts</b>
+   - [Pentest_Toolkit](https://github.com/OVK-CyberSec/Pentest_Toolkit)
      
 
 <h2> 🤳 Connect with me:</h2>
